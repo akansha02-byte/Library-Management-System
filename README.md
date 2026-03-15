@@ -1,2 +1,40 @@
-# Library-Management-System
-Library Management System in Java with MySQL database. Features include: view/add books, view students, and issue books. Demonstrates basic CRUD operations and database connectivity.
+\# Library Management System
+
+
+
+A simple console-based Library Management System built using Java and MySQL.
+
+
+
+\## Features
+
+\- Add new books
+
+\- View book list
+
+\- View student list
+
+\- Issue books to students
+
+
+
+\## Technologies Used
+
+\- Java
+
+\- MySQL
+
+\- JDBC
+
+
+
+\## Database
+
+The project uses MySQL database. The database structure is available in `database.sql`.
+
+
+
+\## Screenshot
+
+!\[Project Screenshot](screenshot.png)
+
